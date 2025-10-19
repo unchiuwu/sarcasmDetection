@@ -1,0 +1,1 @@
+This project uses the data from this link -> https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection/data and requires downloading the Glove text file from here https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt
